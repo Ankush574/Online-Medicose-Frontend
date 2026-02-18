@@ -153,5 +153,10 @@ src/
 - Toast-style notifications
 
 
+ ## License
+
+This project is licensed under the MIT License.
+
+
 
 
